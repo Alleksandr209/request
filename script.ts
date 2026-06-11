@@ -32,3 +32,6 @@ async function fetchUsers () {
     }
 
 }
+
+
+fetchUsers()
